@@ -1,0 +1,4 @@
+cl\aiep\java\tesoreria\TesoreriaJpaApplication.class
+cl\aiep\java\tesoreria\controller\ProveedorController.class
+cl\aiep\java\tesoreria\modelo\Proveedor.class
+cl\aiep\java\tesoreria\repositorio\ProveedorRepository.class
